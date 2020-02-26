@@ -1,5 +1,6 @@
 # SearchAlgorithms
-# CSCI 561 Fall 2019
+CSCI 561 Fall 2019
+
 Global search strategies used in Artificial Intelligence
 
 The goals is to implement the following algorithms to find the optimal path for navigation of a rover based on a particular objective.
